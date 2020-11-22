@@ -1,4 +1,4 @@
-# GCHH
+# GCHN
 PyTorch implementation of "Graph Convolutional Hourglass Network for Skeleton-based Action Recognition".
 
 <img src="figures/framework.pdf" width="90%">
