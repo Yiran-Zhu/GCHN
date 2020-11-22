@@ -1,5 +1,7 @@
-# GCHB
-Graph Convolutional Hourglass Network for Skeleton-based Action Recognition
+# GCHH
+PyTorch implementation of "Graph Convolutional Hourglass Network for Skeleton-based Action Recognition".
+
+<img src="figures/framework.pdf" width="90%">
 
 # Dependencies
 - Python 3.6
