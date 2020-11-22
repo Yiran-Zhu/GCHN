@@ -187,7 +187,7 @@ def get_parser():
 
 class Processor():
     """ 
-        Processor for Skeleton-based Action Recgnition
+        Processor of Graph Convolutional Hourglass Networl for Skeleton-based Action Recgnition.
     """
 
     def __init__(self, arg):
