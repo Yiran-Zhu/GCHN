@@ -1,4 +1,4 @@
-# GCHN
+# SkeleGraph
 
 <!-- <img src="figures/framework.pdf" width="90%"> -->
 ![contents](figures/framework.png)
